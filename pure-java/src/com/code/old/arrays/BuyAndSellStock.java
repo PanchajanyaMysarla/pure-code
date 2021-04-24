@@ -1,4 +1,4 @@
-package com.code.arrays;
+package com.code.old.arrays;
 
 /*
  Best Time to Buy and Sell Stock II

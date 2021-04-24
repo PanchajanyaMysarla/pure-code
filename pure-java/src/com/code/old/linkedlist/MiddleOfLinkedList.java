@@ -1,4 +1,4 @@
-package com.code.linkedlist;
+package com.code.old.linkedlist;
 
 import java.util.Optional;
 
