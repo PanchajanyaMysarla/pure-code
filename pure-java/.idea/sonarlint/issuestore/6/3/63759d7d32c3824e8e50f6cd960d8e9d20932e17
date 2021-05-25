@@ -1,0 +1,22 @@
+
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(º‘Ô‹úÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(«šëî
+N
+java:S1854@"8Remove this useless assignment to local variable "arr5".(Î¥œÉ
+N
+java:S1854>"8Remove this useless assignment to local variable "arr3".(Ší€ñ
+N
+java:S1854="8Remove this useless assignment to local variable "arr2".(Þ˜Ý“
+M
+java:S1854<"7Remove this useless assignment to local variable "arr".(´™Ñõ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ðÂ˜…ùÿÿÿÿ
+>
+java:S1481<"(Remove this unused "arr" local variable.(´™Ñõ
+?
+java:S1481=")Remove this unused "arr2" local variable.(Þ˜Ý“
+?
+java:S1481>")Remove this unused "arr3" local variable.(Ší€ñ
+?
+java:S1481@")Remove this unused "arr5" local variable.(Î¥œÉ
